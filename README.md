@@ -1,51 +1,35 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="initial-scale=1, width=device-width">
-
-<link rel="stylesheet" href="style.css" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" />
-
-</head>
-
-<body>
-
 <div align="center">
-<h1>Sadegh Pouriyan Zadeh</h1>
+
+# My Technical Career Progress
+
+My career progress as an ***Artificial Intelligence Engineer***.
+
+## Stackoverflow Card
 
 [![Sadegh Pouriyan Zadeh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15154700&theme=dark)](https://stackoverflow.com/users/15154700/sadegh-pouriyan)
 
-***Artificial Intelligence Engineer***
+## Skills and Technologies Table
 
-## Skills Table
-
-| Category | Skill Badge | Proficiency |
+| Technology Badge | Skill | Proficiency |
 | - | - | - |
-| *Programming* | ![Static Badge](https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-3776AB?logo=python&label=Python) | <div class="senior-parent"> <div class="senior">Experienced 🗹</div> </div> |
-| | ![Static Badge](https://img.shields.io/badge/Packaging%20and%20Distribution-%233775A9?logo=pypi&label=pypi) | <div class="mid-parent"> <div class="mid">Familiar ⦿</div> </div> |
-| | ![Static Badge](https://img.shields.io/badge/Low%20Level%20Programming-000000?logo=rust&label=Rust) | <div class="junior-parent"> <div class="junior">Learning...</div> </div> |
-| *Machine Learning* | ![Static Badge](https://img.shields.io/badge/Deep%20Learning-EE4C2C?logo=pytorch&label=PyTorch) | |
-| | ![Static Badge](https://img.shields.io/badge/Machine%20Learning-F7931E?logo=scikitlearn&label=scikit-learn) |  |
-| *Data Management* | ![Static Badge](https://img.shields.io/badge/NoSQL%20Database-47A248?logo=mongodb&label=MongoDB) |  |
-| | ![Static Badge](https://img.shields.io/badge/SQL%20Database-003B57?logo=sqlite&label=SQLite) |  |
-| | ![Static Badge](https://img.shields.io/badge/SQL%20Database-4169E1?logo=postgresql&label=PostgreSQL) |  |
-| *Containerization and Deployment* | ![Static Badge](https://img.shields.io/badge/Deployment-2496ED?logo=docker&label=Docker) |  |
-| | ![Static Badge](https://img.shields.io/badge/Orchestration-326CE5?logo=kubernetes&label=Kubernetes) |  |
-| *Numerical and Statistical Analysis* | ![Static Badge](https://img.shields.io/badge/Data%20Manipulation-150458?logo=pandas&label=pandas) |  |
-| | ![Static Badge](https://img.shields.io/badge/Mathematical%20Computation-013243?logo=numpy&label=NumPy) |  |
-| *Image Processing* | ![Static Badge](https://img.shields.io/badge/Image%20Processing-5C3EE8?logo=opencv&label=OpenCV) |  |
-| *3D Vision Processing* | ![Static Badge](https://img.shields.io/badge/3D%20Modeling-E87D0D?logo=blender&label=Blender) |  |
-| *Data Visualization* | ![Static Badge](https://img.shields.io/badge/Interactive%20Plotting-3F4F75?logo=plotly&label=Plotly) |  |
-| *Web API Development* | ![Static Badge](https://img.shields.io/badge/API%20Development-009688?logo=fastapi&label=FastAPI) |  |
-| *Interactive Dashboards and Web Apps* | ![Static Badge](https://img.shields.io/badge/ML%20UI%20Application-F97316?logo=gradio&label=Gradio) |  |
-| *Web Scraping* | ![Static Badge](https://img.shields.io/badge/Web%20Crawling-60A839?logo=scrapy&label=Scrapy) |  |
+| ![Static Badge](https://img.shields.io/badge/Python-white?logo=python&logoColor=white&color=%233776AB) | *High Level Programming* | Experienced 🗹 |
+| ![Static Badge](https://img.shields.io/badge/Rust-white?logo=rust&logoColor=white&color=%23000000) | *Low Level Programming* | Learning ... |
+| ![Static Badge](https://img.shields.io/badge/uv-white?logo=uv&logoColor=white&color=%23DE5FE9) ![Static Badge](https://img.shields.io/badge/Conda-white?logo=anaconda&logoColor=white&color=%2344A833) ![Static Badge](https://img.shields.io/badge/pypi-white?logo=pypi&logoColor=white&color=%233775A9) | *Package Management* | Familiar ⦿ |
+| ![Static Badge](https://img.shields.io/badge/PyTorch-white?logo=pytorch&logoColor=white&color=%23EE4C2C)  ![Static Badge](https://img.shields.io/badge/Tensorflow-white?logo=tensorflow&logoColor=white&color=%23FF6F00)  ![Static Badge](https://img.shields.io/badge/Keras-white?logo=keras&logoColor=white&color=%23D00000) | *Deep Learning* | Experienced 🗹 |
+| ![Static Badge](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&color=%23F7931E) | *Machine Learning* | Experienced 🗹 |
+| ![Static Badge](https://img.shields.io/badge/mongodb-47A248?logo=MongoDB&logoColor=white&color=%2347A248) ![Static Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&color=%23003B57) ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&color=%234169E1)| *Database Management* | Familiar ⦿ |
+| ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&color=%232496ED) | *Containerization* | Familiar ⦿ |
+| ![Static Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&color=%23326CE5) | *Orchestration* | Learning ... |
+| ![Static Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&color=%23013243) ![Static Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&color=%23150458) | *Numerical and Statistical Analysis* | Experienced 🗹 |
+| ![Static Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&color=%235C3EE8) ![Static Badge](https://img.shields.io/badge/Albumentations-white) | *Image Processing* | Familiar ⦿ |
+| ![Static Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white&color=%23E87D0D) | *3D Vision Processing* | Familiar ⦿ |
+| ![Static Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&color=%233F4F75) ![Static Badge](https://img.shields.io/badge/Matplotlib-white) | *Data Visualization* | Experienced 🗹 |
+| ![Static Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&color=%23009688) ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&color=%23000000) | *API Development* | Familiar ⦿ |
+| ![Static Badge](https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=white&color=%23F97316) ![Static Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&color=%23FF4B4B) | *Web Application Development* | Familiar ⦿ |
+| ![Static Badge](https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=white&color=%2360A839) ![Static Badge](https://img.shields.io/badge/BeautifulSoup-white) ![Static Badge](https://img.shields.io/badge/Playwright-white) | *Crawling* | Learning ... |
 
----
 ---
 
 With the appreciation of [Sara](https://www.linkedin.com/in/sara-nazari/)'s revisions for the design.
 
 </div>
-</body>
-</html>
