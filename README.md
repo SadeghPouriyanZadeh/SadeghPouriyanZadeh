@@ -22,8 +22,8 @@
 
 | Category | Skill Badge | Proficiency |
 | - | - | - |
-| *Programming* | ![Static Badge](https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-3776AB?logo=python&label=Python) | <div class="senior-parent"> <div class="senior">Experienced 🗹</div> </div> |
-| | ![Static Badge](https://img.shields.io/badge/Packaging%20and%20Distribution-%233775A9?logo=pypi&label=pypi) | <div class="mid-parent"> <div class="mid">Familiar ⦿</div> </div> |
+| *Programming* | ![Static Badge](https://img.shields.io/badge/Object%20Oriented%20Programming%20(OOP)-3776AB?logo=python&label=Python) | <div class="senior-parent"> <div class="senior">Experienced [x]</div> </div> |
+| | ![Static Badge](https://img.shields.io/badge/Packaging%20and%20Distribution-%233775A9?logo=pypi&label=pypi) | <div class="mid-parent"> <div class="mid">Familiar [ ]</div> </div> |
 | | ![Static Badge](https://img.shields.io/badge/Low%20Level%20Programming-000000?logo=rust&label=Rust) | <div class="junior-parent"> <div class="junior">Learning...</div> </div> |
 | *Machine Learning* | ![Static Badge](https://img.shields.io/badge/Deep%20Learning-EE4C2C?logo=pytorch&label=PyTorch) | |
 | | ![Static Badge](https://img.shields.io/badge/Machine%20Learning-F7931E?logo=scikitlearn&label=scikit-learn) |  |
