@@ -4,9 +4,9 @@
 
 My career progress as an ***Artificial Intelligence Engineer***.
 
-## Stackoverflow Card
-
-[![Sadegh Pouriyan Zadeh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15154700&theme=dark)](https://stackoverflow.com/users/15154700/sadegh-pouriyan)
+[![Sadegh Pouriyan Zadeh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15154700&theme=dark&layout=compact)](https://stackoverflow.com/users/15154700/sadegh-pouriyan)  
+Stackoverflow Card
+<!-- ![Sadegh Pouriyan Zadeh StackOverflow](https://github-stackoverflow-readme.vercel.app/?userID=15154700) -->
 
 ## Skills and Technologies Table
 
